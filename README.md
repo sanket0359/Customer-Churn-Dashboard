@@ -29,4 +29,4 @@ Customer churn is a critical issue for subscription-based businesses. High churn
 
 ## 📬 Contact
 Created by **Sanket** – Final-year B.Tech in AI & ML | Data Analyst Intern @ ROAD GRIP TECHNOLOGY  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) or explore more of my work here on GitHub!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) or explore the dashboard(https://github.com/sanket0359/Customer-Churn-Dashboard/blob/main/Cutomer%20Churn%20Insights%20Dashboard.png)
